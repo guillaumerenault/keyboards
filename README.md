@@ -3,8 +3,6 @@ The keyboards I use.
 
 
 - [Ergodox](./README.md#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
-  - [OS Layout](./README.md#os-layout)
-    -[Installation](./README.md#Installation)
 
 ## Ergodox
 
