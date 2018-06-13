@@ -2,15 +2,15 @@
 The keyboards I use.
 
 
-- Ergodox : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
-
-The keyboard I'm using and it's configuration.
+- [Ergodox](./README.md#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+  - [OS Layout](./README.md#os-layout)
+    -[Installation](./README.md#Installation)
 
 ## Ergodox
 
 ### OS Layout
 
-[qwertyfr](http://marin.jb.free.fr/qwerty-fr/)
+qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-fr/)
 
 #### Installation
 
@@ -18,7 +18,7 @@ The keyboard I'm using and it's configuration.
 
 - .deb packages based Linux
 	- dpkg -i [.deb](./static/xkb-qwerty-fr_0.5_all.deb)
-	- select Layout "English (US)" with variant "French (qwerty-fr; US with french symbols"
+	- select Layout "English (US)" with variant "French (qwerty-fr; US with french symbols)"
 - [Arch Linux](https://aur.archlinux.org/packages/xkb-qwerty-fr/)
 - Mac OS
 	- Download [tgz archive](./static/qwerty-fr_mac.tgz) 
@@ -69,4 +69,4 @@ layer1:
 ## Known issues
 - Windows 7
   - Key Chattering : [https://deskthority.net/wiki/Chatter](https://deskthority.net/wiki/Chatter)
-    - [Fix](./key_chattering_fix_w7)
+    - [Fix](./issues/win7_key_chattering)
