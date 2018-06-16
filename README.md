@@ -1,5 +1,5 @@
 # Keyboards
-The keyboards I use.
+My Keyboard configurations
 
 
 - [**Ergodox**](#ergodox)
@@ -10,6 +10,7 @@ The keyboards I use.
   - [Flashing a layout](#ergodox-flashing-a-layout)
   - [Hardware](#ergodox-hardware)
   - [Known issues](#ergodox-known-issues)
+- [**Other settings**](#other-settings)
 
 
 ## Ergodox
@@ -82,3 +83,6 @@ layer1:
 - Windows 7
   - Key Chattering : [https://deskthority.net/wiki/Chatter](https://deskthority.net/wiki/Chatter)
     - [Fix](./issues/win7_key_chattering)
+
+## Other settings
+- [Xfce settings](./static/Xfce_settings.png)
