@@ -2,7 +2,7 @@
 The keyboards I use.
 
 
-- **[Ergodox]**(#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+- [**Ergodox**](#ergodox)
   - [OS Layout](#ergodox-os-layout)
     - [Installation](#ergodox-os-layout-installation)
   - [Physical Layout](#ergodox-physical-layout)
@@ -13,6 +13,7 @@ The keyboards I use.
 
 
 ## Ergodox
+[https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
 
 <a id="ergodox-os-layout"></a>
 ### OS layout 
