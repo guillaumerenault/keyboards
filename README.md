@@ -3,15 +3,22 @@ The keyboards I use.
 
 
 - [Ergodox](#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+  - [OS Layout](#ergodox-os-layout)
+    - [Installation](#ergodox-os-layout-installation)
+  - [Physical Layout](#ergodox-physical-layout)
+  - [Layout editors](#ergodox-layout-editors)
+  - [Flashing a layout](#ergodox-flashing-a-layout)
+  - [Hardware](#ergodox-hardware)
+  - [Known issues](#ergodox-known-issues)
 
 
 ## Ergodox
 
-### OS Layout
+### OS layout <a id="ergodox-os-layout"></a>
 
 qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-fr/)
 
-#### Installation
+#### Installation <a id="ergodox-os-layout-installation"></a>
 
 (Mirror from the qwerty-fr site)
 
@@ -31,7 +38,7 @@ qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-f
 
 In case of other Linux distribution or installation issue, you can refer to [manual installation](http://marin.jb.free.fr/qwerty-fr/manual/) page for Linux.
 
-### Physical Layout
+### Physical layout <a id="ergodox-physical-layout"></a>
 Currently using only 2 layers :
 
 layer0:
@@ -43,13 +50,13 @@ layer1:
 - [.hex file](./layout_01.03.2018.hex)
 - [source](./layout_01.03.2018)
 
-### Layout editors
+### Layout editors <a id="ergodox-layout-editors"></a>
 - Ergodox Layout Configurator : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
 
 - Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
 
-### Flashing the layout
+### Flashing a layout <a id="ergodox-flashing-a-layout"></a>
 - Using the teensy loader cli: 
  - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
  - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
@@ -58,14 +65,14 @@ layer1:
 ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
 
 
-### Hardware
+### Hardware <a id="ergodox-hardware"></a>
 - Fully assembled MX-Brown switches Ergodox from fengsbay on ebay.
 - Keycaps from https://pimpmykeyboard.com
 
 
 ![Ergodox](./static/ergodox.jpg "Ergodox")
 
-## Known issues
+### Known issues <a id="ergodox-known-issues"></a>
 - Windows 7
   - Key Chattering : [https://deskthority.net/wiki/Chatter](https://deskthority.net/wiki/Chatter)
     - [Fix](./issues/win7_key_chattering)
