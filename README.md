@@ -2,7 +2,8 @@
 The keyboards I use.
 
 
-- [Ergodox](./README.md#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+- [Ergodox](#ergodox) : [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+
 
 ## Ergodox
 
