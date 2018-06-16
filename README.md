@@ -1,5 +1,5 @@
 # Keyboards
-My Keyboard configurations
+My Keyboard configurations.
 
 
 - [**Ergodox**](#ergodox)
