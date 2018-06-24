@@ -8,7 +8,7 @@ My Keyboard configurations.
 
 ## Ergodox
 
-- [General inforamation](#ergodox-general-information)
+- [General information](#ergodox-general-information)
 - [OS layout](#ergodox-os-layout)
   - [Installation](#ergodox-os-layout-installation)
 - [Physical layout](#ergodox-physical-layout)
