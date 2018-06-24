@@ -3,17 +3,22 @@ My Keyboard configurations.
 
 
 - [**Ergodox**](#ergodox)
-  - [OS Layout](#ergodox-os-layout)
-    - [Installation](#ergodox-os-layout-installation)
-  - [Physical Layout](#ergodox-physical-layout)
-  - [Layout editors](#ergodox-layout-editors)
-  - [Flashing a layout](#ergodox-flashing-a-layout)
-  - [Hardware](#ergodox-hardware)
-  - [Known issues](#ergodox-known-issues)
 - [**Other settings**](#other-settings)
 
 
 ## Ergodox
+
+- [General inforamation](#ergodox-general-information)
+- [OS layout](#ergodox-os-layout)
+  - [Installation](#ergodox-os-layout-installation)
+- [Physical layout](#ergodox-physical-layout)
+- [Layout editors](#ergodox-layout-editors)
+- [Flashing a layout](#ergodox-flashing-a-layout)
+- [Hardware](#ergodox-hardware)
+- [Known issues](#ergodox-known-issues)
+
+<a id="ergodox-general-information"></a>
+### General information
 [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
 
 <a id="ergodox-os-layout"></a>
