@@ -19,8 +19,8 @@ My Keyboard configurations.
 
 <a id="ergodox-general-information"></a>
 ### General information
-[https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
-[https://www.ergodox.io/](https://www.ergodox.io/)
+- [https://deskthority.net/wiki/ErgoDox](https://deskthority.net/wiki/ErgoDox)
+- [https://www.ergodox.io/](https://www.ergodox.io/)
 
 <a id="ergodox-os-layout"></a>
 ### OS layout 
