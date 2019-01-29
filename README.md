@@ -4,6 +4,7 @@ My Keyboard configurations.
 
 - [**Ergodox**](#ergodox)
 <br/>
+
 - [**Other settings**](#other-settings)
 
 
