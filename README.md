@@ -25,12 +25,12 @@ My Keyboard configurations.
 - [https://www.ergodox.io/](https://www.ergodox.io/)
 
 <a id="ergodox-os-layout"></a>
-### OS layout 
+### OS layout
 
 qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-fr/)
 
 <a id="ergodox-os-layout-installation"></a>
-#### Installation 
+#### Installation
 
 (Mirror from the qwerty-fr site)
 
@@ -39,7 +39,7 @@ qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-f
 	- select Layout "English (US)" with variant "French (qwerty-fr; US with french symbols)"
 - [Arch Linux](https://aur.archlinux.org/packages/xkb-qwerty-fr/)
 - Mac OS
-	- Download [tgz archive](./static/qwerty-fr_mac.tgz) 
+	- Download [tgz archive](./static/qwerty-fr_mac.tgz)
 	- extract qwerty-fr.bundle to:
 		- /Library/Keyboard Layouts/ to install for all users
 		- ~/Library/Keyboard Layouts/ for user-local installation
@@ -51,7 +51,7 @@ qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-f
 In case of other Linux distribution or installation issue, you can refer to [manual installation](http://marin.jb.free.fr/qwerty-fr/manual/) page for Linux.
 
 <a id="ergodox-physical-layout"></a>
-### Physical layout 
+### Physical layout
 Currently using only 2 layers :
 
 layer0:
@@ -60,18 +60,18 @@ layer0:
 layer1:
 ![layer1](./static/layer1.png "layer1")
 
-- [.hex file](./layout_01.03.2018.hex)
-- [source](./layout_01.03.2018)
+- [.hex file](./layout_2018.03.01.hex)
+- [source](./layout_2018.03.01)
 
 <a id="ergodox-layout-editors"></a>
-### Layout editors 
+### Layout editors
 - Ergodox Layout Configurator : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
 
 - Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
 <a id="ergodox-flashing-a-layout"></a>
-### Flashing a layout 
-- Using the teensy loader cli: 
+### Flashing a layout
+- Using the teensy loader cli:
  - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
  - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
 
@@ -79,7 +79,7 @@ layer1:
 ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
 
 <a id="ergodox-hardware"></a>
-### Hardware 
+### Hardware
 - Fully assembled MX-Brown switches Ergodox from fengsbay on ebay.
 - Keycaps from https://pimpmykeyboard.com
 
@@ -87,7 +87,7 @@ layer1:
 ![Ergodox](./static/ergodox.jpg "Ergodox")
 
 <a id="ergodox-known-issues"></a>
-### Known issues 
+### Known issues
 - Windows 7
   - Key Chattering : [https://deskthority.net/wiki/Chatter](https://deskthority.net/wiki/Chatter)
     - [Fix](./issues/win7_key_chattering)
