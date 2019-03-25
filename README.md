@@ -62,24 +62,19 @@ layer0:
 layer1:
 ![layer1](./static/layer1.png "layer1")
 
-
-
 <a id="ergodox-layout-editors"></a>
 ### Layout editors
 - Ergodox layout configurators :
   - Ergodox EZ (newer) : [https://configure.ergodox-ez.com](https://configure.ergodox-ez.com)
   - Massdrop : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
-
 - Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
 <a id="ergodox-flashing-a-layout"></a>
 ### Flashing a layout
 - Using the teensy loader cli:
- - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
- - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
-
-(The command I use for the teensy board I have)
-```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
+  - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
+  - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
+  - command (adapted for the teensy board I have): ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
 
 <a id="ergodox-hardware"></a>
 ### Hardware
