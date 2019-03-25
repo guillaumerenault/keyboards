@@ -2,10 +2,11 @@
 My Keyboard configurations.
 
 
-- [**Ergodox**](#ergodox)
+- **[Ergodox](#ergodox)**
 <br/>
 
-- [**Other settings**](#other-settings)
+- **[History](./HISTORY.md)**
+- **[Other settings](#other-settings)**
 
 
 ## Ergodox
@@ -35,18 +36,18 @@ qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-f
 (Mirror from the qwerty-fr site)
 
 - .deb packages based Linux
-	- dpkg -i [.deb](./static/xkb-qwerty-fr_0.5_all.deb)
-	- select Layout "English (US)" with variant "French (qwerty-fr; US with french symbols)"
+    - dpkg -i [.deb](./static/xkb-qwerty-fr_0.5_all.deb)
+    - select Layout "English (US)" with variant "French (qwerty-fr; US with french symbols)"
 - [Arch Linux](https://aur.archlinux.org/packages/xkb-qwerty-fr/)
 - Mac OS
-	- Download [tgz archive](./static/qwerty-fr_mac.tgz)
-	- extract qwerty-fr.bundle to:
-		- /Library/Keyboard Layouts/ to install for all users
-		- ~/Library/Keyboard Layouts/ for user-local installation
+    - Download [tgz archive](./static/qwerty-fr_mac.tgz)
+    - extract qwerty-fr.bundle to:
+        - /Library/Keyboard Layouts/ to install for all users
+        - ~/Library/Keyboard Layouts/ for user-local installation
 - Windows
-	- Download [zip archive](./static/win-qwerty-fr.zip)
-	- extract files and run setup.exe
-	- For default input language select "French (France) - French qwerty keyboard"
+    - Download [zip archive](./static/win-qwerty-fr.zip)
+    - extract files and run setup.exe
+    - For default input language select "French (France) - French qwerty keyboard"
 
 In case of other Linux distribution or installation issue, you can refer to [manual installation](http://marin.jb.free.fr/qwerty-fr/manual/) page for Linux.
 
@@ -60,12 +61,15 @@ layer0:
 layer1:
 ![layer1](./static/layer1.png "layer1")
 
-- [.hex file](./layout_2018.03.01.hex)
-- [source](./layout_2018.03.01)
+- [.hex file](./layout_2019.03.25.hex)
+- [source](./layout_2019.03.25)
+- [editor](https://configure.ergodox-ez.com/layouts/Gzwa)
 
 <a id="ergodox-layout-editors"></a>
 ### Layout editors
-- Ergodox Layout Configurator : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
+- Ergodox layout configurators :
+  - Ergodox EZ (newer) : [https://configure.ergodox-ez.com](https://configure.ergodox-ez.com)
+  - Massdrop : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
 
 - Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
