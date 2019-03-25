@@ -61,9 +61,9 @@ layer0:
 layer1:
 ![layer1](./static/layer1.png "layer1")
 
-- [.hex file](./layout_2019.03.25.hex)
+- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.ergodox-ez.com/layouts/Gzwa)
 - [source](./layout_2019.03.25)
-- [editor](https://configure.ergodox-ez.com/layouts/Gzwa)
+
 
 <a id="ergodox-layout-editors"></a>
 ### Layout editors
