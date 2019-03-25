@@ -53,7 +53,8 @@ In case of other Linux distribution or installation issue, you can refer to [man
 
 <a id="ergodox-physical-layout"></a>
 ### Physical layout
-Currently using only 2 layers :
+- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.ergodox-ez.com/layouts/Gzwa)
+- [source](./layout_2019.03.25)
 
 layer0:
 ![layer0](./static/layer0.png "layer0")
@@ -61,8 +62,6 @@ layer0:
 layer1:
 ![layer1](./static/layer1.png "layer1")
 
-- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.ergodox-ez.com/layouts/Gzwa)
-- [source](./layout_2019.03.25)
 
 
 <a id="ergodox-layout-editors"></a>
