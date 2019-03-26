@@ -65,7 +65,7 @@ layer1:
 <a id="ergodox-layout-editors"></a>
 ### Layout editors
 - Ergodox layout configurators :
-  - Ergodox EZ (newer) : [https://configure.ergodox-ez.com](https://configure.ergodox-ez.com)
+  - Ergodox EZ : [https://configure.ergodox-ez.com](https://configure.ergodox-ez.com)
   - Massdrop : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
 - Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
@@ -74,7 +74,7 @@ layer1:
 - Using the teensy loader cli:
   - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
   - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
-  - command (adapted for the teensy board I have): ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
+  - Execute the following command: ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
 
 <a id="ergodox-hardware"></a>
 ### Hardware
