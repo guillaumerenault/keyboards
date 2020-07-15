@@ -1,5 +1,10 @@
 # History
 
+# 2020.02.08
+- Ordered ErgoDox EZ
+- Ordered Keycaps for new ErgoDox EZ
+- Updated keyboard layout visual (key colors are now all white)
+
 # 2019.03.25
 - Slight changes to the current Ergodox layout
 - Updated Ergodox visuals for layer0 and 1

@@ -78,11 +78,19 @@ layer1:
 
 <a id="ergodox-hardware"></a>
 ### Hardware
-- Fully assembled MX-Brown switches Ergodox from fengsbay on ebay.
+#### keyboard 1
+- Fully assembled cherry MX Brown switches Ergodox from fengsbay on ebay.
 - Keycaps from https://pimpmykeyboard.com
 
+![keyboard1](./static/keyboard1.jpg "keyboard1")
 
-![Ergodox](./static/ergodox.jpg "Ergodox")
+#### keyboard 2
+- ErgoDox EZ (cherry MX Brown) [https://ergodox-ez.com](https://ergodox-ez.com)
+- Keycaps from https://pimpmykeyboard.com
+
+![keyboard2](./static/keyboard2.jpg "keyboard2")
+
+
 
 <a id="ergodox-known-issues"></a>
 ### Known issues
