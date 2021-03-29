@@ -53,8 +53,8 @@ In case of other Linux distribution or installation issue, you can refer to [man
 
 <a id="ergodox-physical-layout"></a>
 ### Physical layout
-- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.ergodox-ez.com/layouts/Gzwa)
-- [source](./layout_2019.03.25)
+- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.zsa.io/ergodox-ez/layouts/dayb9)
+- [source](./layout_2019.03.25_source)
 
 layer0:
 ![layer0](./static/layer0.png "layer0")
@@ -71,10 +71,8 @@ layer1:
 
 <a id="ergodox-flashing-a-layout"></a>
 ### Flashing a layout
-- Using the teensy loader cli:
-  - [Official website](https://www.pjrc.com/teensy/loader_cli.html)
-  - [Github](https://github.com/PaulStoffregen/teensy_loader_cli)
-  - Execute the following command: ```teensy_loader_cli -mmcu=atmega32u4 -w -v layout.hex```
+- Use the wally flashing tool (https://github.com/zsa/wally):
+  - Execute the following command: ```wally-cli layout_2019.03.25.hex```
 
 <a id="ergodox-hardware"></a>
 ### Hardware

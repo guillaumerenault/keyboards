@@ -1,5 +1,8 @@
 # History
 
+# 2021.03.29
+- Raised DEBOUNCE value to 50 (see https://docs.qmk.fm/#/config_options?id=the-configh-file and https://docs.qmk.fm/#/feature_debounce_type for explanations)
+
 # 2020.02.08
 - Ordered ErgoDox EZ
 - Ordered Keycaps for new ErgoDox EZ
