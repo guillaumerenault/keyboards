@@ -28,7 +28,13 @@ My Keyboard configurations.
 <a id="ergodox-os-layout"></a>
 ### OS layout
 
-qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-fr/)
+- qwertyfr : [http://marin.jb.free.fr/qwerty-fr/](http://marin.jb.free.fr/qwerty-fr/)
+
+On Linux: for some programs to work correctly, after installation, do:
+```
+sudo mv /usr/share/X11/xkb/symbols/us_qwerty-fr /usr/share/X11/xkb/symbols/us_qwerty_fr
+```
+And use the `setxkbmap us_qwerty_fr` everywhere.
 
 <a id="ergodox-os-layout-installation"></a>
 #### Installation
@@ -53,8 +59,8 @@ In case of other Linux distribution or installation issue, you can refer to [man
 
 <a id="ergodox-physical-layout"></a>
 ### Physical layout
-- [.hex file](./layout_2019.03.25.hex) | [configurator permalink](https://configure.zsa.io/ergodox-ez/layouts/dayb9)
-- [source](./layout_2019.03.25_source)
+- [.hex file](./layout_2026-01-11.hex) | [configurator permalink](https://configure.zsa.io/ergodox-ez/layouts/5JNPY/latest/0)
+- [source](./layout_2026-01-11_source)
 
 layer0:
 ![layer0](./static/layer0.png "layer0")
@@ -67,12 +73,12 @@ layer1:
 - Ergodox layout configurators :
   - Ergodox EZ : [https://configure.ergodox-ez.com](https://configure.ergodox-ez.com)
   - Massdrop : [https://www.massdrop.com/configurator/ergodox](https://www.massdrop.com/configurator/ergodox)
-- Visual Layout Editor : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
 <a id="ergodox-flashing-a-layout"></a>
 ### Flashing a layout
-- Use the wally flashing tool (https://github.com/zsa/wally):
-  - Execute the following command: ```wally-cli layout_2019.03.25.hex```
+- Create the layout and download the .hex file
+- Use the Keymapp flashing tool (https://github.com/zsa/wally/wiki/Linux-install):
+  - Launch Keymapp and flash the downloaded .hex layout file to the keyboard
 
 <a id="ergodox-hardware"></a>
 ### Hardware
@@ -87,7 +93,6 @@ layer1:
 - Keycaps from https://pimpmykeyboard.com
 
 ![keyboard2](./static/keyboard2.jpg "keyboard2")
-
 
 
 <a id="ergodox-known-issues"></a>
