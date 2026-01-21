@@ -1,5 +1,8 @@
 # History
 
+# 2026.01.11
+- New layout with MacOS control key, Debounce set to 0ms, updated docs.
+
 # 2021.03.29
 - Raised DEBOUNCE value to 50 (see https://docs.qmk.fm/#/config_options?id=the-configh-file and https://docs.qmk.fm/#/feature_debounce_type for explanations)
 
